@@ -1,0 +1,135 @@
+<div layout="vertical" layout-fill>
+
+  <md-content flex>
+
+    <!--nav bar-->
+    <!--<header>
+      <acme-navbar></acme-navbar>
+    </header>-->
+    <!--/nav bar-->
+
+    <section class="jumbotron" layout="column" layout-align="space-around center" flex="100">
+          
+          <!--toolbar-->
+          <md-toolbar layout="row" layout-align="start center">  
+            <img src="../assets/images/gdg-logo.png" width="100"/>
+          </md-toolbar>
+          <!--/toolbar-->
+
+
+          <!--title-->
+          <div class="desktop"  layout="row" layout-align="space-around center" flex="100">
+              
+
+              <div layout="column" layout-align="center center" >
+                <center>
+
+                    <div class="countdown" layout="row">
+                      
+                      <md-card ng-repeat="time in main.countdown" id="{{ time.type }}" >
+                        <md-card-content layout="column"  >
+                            <div class="time-amount">{{  time.amount }}</div>
+                            <b>{{  time.type }}</b>
+                        </md-card-content>
+                      </md-card>
+                    
+                    </div>
+
+                    
+                    <br>                    
+                    <a href="http://gdglimasummit.eventbrite.es/" target="_blank"><md-button class="btn-register md-raised md-primary">Registrate Aquí</md-button></a>
+
+                </center>
+              </div>
+
+              
+                
+              
+              <!--<img src="../assets/images/gdg-tile.png" width="300"/>-->
+              <div layout="column" class="title-event">
+                <h1>GDG Lima Summit 2016</h1>
+                <h2>22 de octubre</h2>
+              </div>        
+              <!--<img src="../assets/images/gdg-tile.png" width="300"/>-->
+
+          </div>
+
+
+
+          <div class="mobile"  layout="column" layout-align="space-around center" flex="100">
+              
+              <div layout="column" class="title-event">
+                <h1>GDG Lima Summit 2016</h1>
+                <h2>22 de octubre</h2>
+              </div>        
+              
+              <div class="countdown" layout="row" layout-align="center center">
+                <center>
+                  <a href="http://gdglimasummit.eventbrite.es/" target="_blank"><md-button class="btn-register md-raised md-primary">Registrate Aquí</md-button></a>
+
+                  <br>                    
+                  
+                  <md-card ng-repeat="time in main.countdown" id="{{ time.type }}" >
+                    <md-card-content layout="column"  >
+                        <div class="time-amount">{{  time.amount }}</div>
+                        <b>{{  time.type }}</b>
+                    </md-card-content>
+                  </md-card>
+
+                      
+                </center>
+              </div>
+              
+
+          </div>
+          <!--/title-->
+        
+
+        <div class="social" layout="row" >
+
+          <a href="https://www.facebook.com/gdglima/" target="_blank">
+            <md-button class="md-fab  md-mini " aria-label="facebook" style="background:rgb(60, 90, 154)">
+                  <md-icon md-svg-src="../assets/images/facebook.svg" ></md-icon>
+            </md-button>    
+          </a>
+
+          <a href="https://plus.google.com/+gdglimape" target="_blank">
+            <md-button class="md-fab  md-mini" aria-label="google plus" style="background:rgb(255, 42, 42)">
+                  <md-icon md-svg-src="../assets/images/google-plus.svg" ></md-icon>
+            </md-button>    
+          </a>
+
+          <a href="https://twitter.com/gdglima" target="_blank">
+            <md-button class="md-fab  md-mini" aria-label="twitter" style="background:white">
+                  <md-icon md-svg-src="../assets/images/twitter.svg" ></md-icon>
+            </md-button>    
+          </a>
+          
+        </div>
+      
+
+    </section>
+    <section layout="row" layout-align="center center " class="credits">
+        <div>
+          Google Developers Group Lima 2016
+        </div>
+    </section>
+
+  
+
+    <!--
+    <div class="techs" layout-align="center">
+      <md-card ng-repeat="awesomeThing in main.awesomeThings | orderBy:'rank'">
+        <md-card-content>
+          <img class="pull-right" ng-src="assets/images/{{ awesomeThing.logo }}" alt="{{ awesomeThing.title }}">
+          <h3 class="md-title">{{ awesomeThing.title }}</h3>
+          <p>{{ awesomeThing.description }}</p>
+        </md-card-content>
+        <div class="md-action-buttons">
+          <md-button ng-href="{{ awesomeThing.url }}">Website</md-button>
+        </div>
+      </md-card>
+    </div>-->
+  </md-content>
+
+</div>
