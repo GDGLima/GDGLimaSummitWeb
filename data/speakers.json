@@ -1,0 +1,217 @@
+{
+    "2": {
+        "id": 2,
+        "featured": true,
+        "name": "Jhon Machahuay Giraldo",
+        "title": "Developer",
+        "company": "ReactJS Lima",
+        "companyLogo": "/images/logos/ReactLima.png",
+        "country": "Perú",
+        "photoUrl": "/images/people/jmachahuay.jpg",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "ReactJS"
+
+            ],
+        "socials": [
+            {
+                "icon": "website",
+                "name": "WebSite",
+                "link": "https://www.facebook.com/groups/996509750378814/"
+            },
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/john.machahuaygiraldo.3"
+            }
+        ]
+    },
+    "3": {
+        "id": 3,
+        "featured": true,
+        "name": "Renato Centeno",
+        "title": "Developer",
+        "company": "Laravel Perú",
+        "companyLogo": "/images/logos/laravelperu.jpg",
+        "country": "Perú",
+        "photoUrl": "/images/people/rcenteno.jpg",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Laravel"
+
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "website",
+                "name": "Website",
+                "link": "https://www.facebook.com/groups/perularavel/"
+            },
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/natogallagher"
+            }
+        ]
+    },
+    "4": {
+        "id": 4,
+        "featured": true,
+        "name": "Marco Ordoñez",
+        "title": "Developer",
+        "company": "Scala Perú",
+        "companyLogo": "/images/logos/scala.jpg",
+        "country": "Perú",
+        "photoUrl": "/images/people/mordonez.png",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Scala"
+           
+        ],
+        "badges": [
+
+        ],
+         "socials": [
+            {
+                "icon": "website",
+                "name": "Website",
+                "link": "https://www.facebook.com/groups/scalaperu/"
+            },
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/mordonez.me"
+            }
+        ]
+    },
+    "5": {
+        "id": 4,
+        "featured": true,
+        "name": "Eddú Melendez",
+        "title": "Developer",
+        "company": "PerúJUG",
+        "companyLogo": "/images/logos/jugperu.jpeg",
+        "country": "Perú",
+        "photoUrl": "/images/people/eddumelendez.jpg",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Java"
+           
+        ],
+        "badges": [
+
+        ],
+         "socials": [
+            {
+                "icon": "website",
+                "name": "Website",
+                "link": "https://twitter.com/perujug"
+            },
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://twitter.com/EdduMelendez"
+            }
+        ]
+    },
+    "6": {
+        "id": 5,
+        "featured": true,
+        "name": "Herald Gomez",
+        "title": "Developer",
+        "company": "GDG Juliaca",
+        "companyLogo": "/images/logos/logo_lockup_gdg_horizontal.png",
+        "country": "Perú",
+        "photoUrl": "/images/people/hgomez.jpg",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+           
+            "Angular"
+        ],
+        "badges": [
+
+        ],
+         "socials": [
+            {
+                "icon": "website",
+                "name": "Website",
+                "link": "https://www.facebook.com/gdgjuliaca/"
+            },
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/helard.gomez"
+            }
+        ]
+    },
+    "7": {
+        "id": 7,
+        "featured": true,
+        "name": "Elvis Rivera",
+        "title": "Developer",
+        "company": "GDG Lima",
+        "companyLogo": "/images/logos/logo_lockup_gdg_horizontal.png",
+        "country": "Perú",
+        "photoUrl": "/images/people/erivera.jpg",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "IOT",
+            "Firebase"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "website",
+                "name": "WebSite",
+                "link": "http://www.gdglima.com"
+            },
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/elvis.rivera?fref=ts"
+            }
+        ]
+    },
+
+    "8": {
+        "id": 8,
+        "featured": true,
+        "name": "Carlos Chavez",
+        "title": "Developer",
+        "company": "GDG Lima",
+        "companyLogo": "/images/logos/logo_lockup_gdg_horizontal.png",
+        "country": "Perú",
+        "photoUrl": "/images/people/cchavez.jpg",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Web",
+            "IOT"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "website",
+                "name": "WebSite",
+                "link": "http://www.gdglima.com"
+            },
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/profile.php?id=100009417500771"
+            }
+        ]
+    }
+}

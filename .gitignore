@@ -1,7 +1,5 @@
-node_modules/
-bower_components/
-coverage/
-.sass-cache/
+bower_components
+dist
+node_modules
+build
 .idea/
-.tmp/
-dist/

@@ -1,0 +1,19 @@
+[{
+    "date": "2016-10-22",
+    "dateReadable": "22 Octubre",
+    "tracks": [{
+        "title": "Auditorio"
+    }, {
+        "title": "Conferencia"
+    }, {
+        "title": "Taller"
+    }],
+    "timeslots": [{
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "sessions": [
+            [132]
+        ]
+    }]
+}
+]
