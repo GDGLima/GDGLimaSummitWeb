@@ -10,36 +10,37 @@ Requisitos :
 	* Instalación [https://www.polymer-project.org/1.0/start/](https://www.polymer-project.org/1.0/start/)
 
 
-Pasos para ejecutar la web localmenta :
+Pasos para ejecutar la web en local :
 
-	- Descargar el proyecto en la rama dev
+- Descargar el proyecto en la rama dev
 	 
 		* git clone -b "dev" git@github.com:GDGLima/GDGLimaSummitWeb.git
 
-	- Instalar NodeJs (Ubuntu)
+- Instalar NodeJs (Ubuntu)
 
 		* sudo apt-get update
 		* sudo apt-get install nodejs
 		* sudo apt-get install npm
 
-	- Instalar Polymer
+- Instalar Polymer
 
 		* npm install-g bower
 		* npm install -g polymer-cli
 
-	- Dependencias
+- Dependencias
 
 		* bower install
 
-	- Ejecutar la web
+- Ejecutar la web
 
 		* polymer serve --open
 		* Detener Ctrl+C
 
 Referencias 
 
-	- Nodejs [https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-an-ubuntu-14-04-server](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-an-ubuntu-14-04-server)
-	- Polymer [https://www.polymer-project.org/1.0/start/](https://www.polymer-project.org/1.0/start/)
+- Nodejs [https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-an-ubuntu-14-04-server](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-an-ubuntu-14-04-server)
+
+- Polymer [https://www.polymer-project.org/1.0/start/](https://www.polymer-project.org/1.0/start/)
 
 
 
