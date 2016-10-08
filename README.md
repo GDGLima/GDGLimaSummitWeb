@@ -1,6 +1,6 @@
 ![preview-web](https://cloud.githubusercontent.com/assets/2954281/17777476/5dbbbe1c-6569-11e6-9cc4-77185ae9bf92.png)
 
-Requisitos :
+## Requisitos :
 
 - NodeJS [https://nodejs.org/en/](https://nodejs.org/en/)
 
@@ -10,7 +10,7 @@ Requisitos :
 	* Instalación [https://www.polymer-project.org/1.0/start/](https://www.polymer-project.org/1.0/start/)
 
 
-Pasos para ejecutar la web en local :
+## Pasos para ejecutar la web en local :
 
 - Descargar el proyecto en la rama dev
 	 
@@ -35,8 +35,9 @@ Pasos para ejecutar la web en local :
 
 		* polymer serve --open
 		* Detener Ctrl+C
+		* http://localhost:8080/
 
-Referencias 
+## Referencias 
 
 - Nodejs [https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-an-ubuntu-14-04-server](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-an-ubuntu-14-04-server)
 
