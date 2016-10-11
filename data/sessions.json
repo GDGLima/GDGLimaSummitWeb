@@ -1,123 +1,115 @@
 {
     "145": {
         "id": 145,
-        "title": "Practical WebGL with Three.js",
-        "description": "Create interactive 3D worlds in your browser - no plugins needed, just JavaScript.\n\nWe will explore what it takes to get 3D graphics into your browser and how to load and interact with 3D models and get our hands on Three.js, a library to make this a lot easier than vanilla WebGL.\n\nYou will need to have a solid understanding of JavaScript (especially Arrays, TypedArrays, objects, requestAnimationFrame) and a browser & laptop that is able to display WebGL, which you can check at http://get.webgl.org.",
+        "title": "Testeando aplicaciones con Docker y Arquillian Cube",
+        "description": "Testeando aplicaciones con Docker y Arquillian Cube",
         "speakers": [
-            41
+            5
         ],
-        "language": "English",
-        "complexity": "Beginner",
+        "language": "",
+        "complexity": "",
         "tags": [
             "Web"
         ],
-        "presentation":"https://speakerdeck.com/gdglviv/martin-splitt-practical-webgl-with-three-dot-js"
+        "presentation":""
     },
     "1441": {
         "id": 1441,
-        "title": "Build a Progressive Web App with Firebase and Polymer (part 1)",
-        "description": "In this codelab, you'll learn how to make a progressive web app using Firebase and Polymer Web Components. You'll connect pre-made view components to Firebase data components to build an app that features user authentication, a database backend, offline data availability and the ability to be installed to the home screen of an Android device. \n\nThat may sound like a lot to consider, but worry not: Polymer Web Components make it easy to unlock the power of the web platform. Let's get coding!",
+        "title": "Mobile App Development with react Native",
+        "description": "Mobile App Development with react Native",
         "speakers": [
-            41
+            2
         ],
-        "language": "English",
-        "complexity": "Beginner",
+        "language": "",
+        "complexity": "B",
         "tags": [
-            "Web",
-            "Workshop"
+            "Cloud"
         ]
     },
     "1442": {
         "id": 1442,
-        "title": "Build a Progressive Web App with Firebase and Polymer (part 2)",
-        "description": "In this codelab, you'll learn how to make a progressive web app using Firebase and Polymer Web Components. You'll connect pre-made view components to Firebase data components to build an app that features user authentication, a database backend, offline data availability and the ability to be installed to the home screen of an Android device. \n\nThat may sound like a lot to consider, but worry not: Polymer Web Components make it easy to unlock the power of the web platform. Let's get coding!",
+        "title": "Taller de Electrónica",
+        "description": "Taller de Electronica",
         "speakers": [
-            41
+            8
         ],
-        "language": "English",
-        "complexity": "Beginner",
+        "language": "",
+        "complexity": "",
         "tags": [
-            "Web",
-            "Workshop"
+            "BLE"        
         ]
     },
     "143": {
         "id": 143,
-        "title": "Introduction to Golang",
-        "description": "Go becomes more and more popular language. It's strongly focused on concurrency and breaks the traditional approach to object-oriented programming. And it's made by Google for the software written by Google. If you want to take a look at Golang as a beginner or a curious person, you're welcome!",
+        "title": "Taller ABCArduino & NodeJs",
+        "description": "Taller ABCArduino & NodeJs",
         "speakers": [
-            40
+            7
         ],
-        "language": "English",
-        "complexity": "Beginner",
+        "language": "",
+        "complexity": "",
         "tags": [
             "Cloud"
         ],
-        "presentation":"https://speakerdeck.com/gdglviv/michal-rostecki-introduction-to-golang"
+        "presentation":""
     },
     "142": {
         "id": 142,
-        "title": "Kubernetes: More than just a toy",
-        "description": "The presentation covers automation of Kubernetes installation with Kargo. It has not so many working parts, but achieving real production HA takes work. We will cover deployment on bare metal and on clouds, such as GCE and AWS.",
+        "title": "Angular + Laravel = Powerful Web Apps",
+        "description": "Web apps seguras y ligeras",
         "speakers": [
-            39
+            3
         ],
-        "language": "English",
-        "complexity": "Intermediate",
+        "language": "",
+        "complexity": "",
         "tags": [
-            "Cloud"
+            "AngularJS"
         ],
-        "presentation":"https://speakerdeck.com/gdglviv/matthew-mosesohn-kubernetes-more-than-just-a-toy"
+        "presentation":""
     },
     "141": {
         "id": 141,
-        "title": "Fireside Chat. Hosted by Professor Fortran",
-        "description": "Our friends from Professor Fortran Videocast decided to record a session at the DevFest Ukraine. Wait for a casual conversation with our speakers about IT. More details comming soon...",
+        "title": "Cálculo lambda y la programación funcional",
+        "description": "Cálculo lambda y la programación funcional",
         "speakers": [
-            38
+            4
         ],
-        "language": "English",
-        "complexity": "Beginner",
-        "image": "/images/backgrounds/fireside_chat.jpg",
+        "language": "",
+        "complexity": "",
         "tags": [
-            "General",
-            "Android",
-            "Web",
             "Cloud"
         ]
     },
     "140": {
         "id": 140,
-        "title": "TBD",
-        "description": "TBD",
+        "title": "Por  definir",
+        "description": "Por definir",
         "language": "English"
     },
     "139": {
         "id": 139,
-        "title": "Keynote. How to take off in 2016",
-        "description": "It's 2016 and turning your idea from just a concept in your head to a startup is easier than ever, but sometimes that road can get a bit turbulent. Let's talk about making your take off smooth, quick and fun!",
+        "title": "Radiografía de una Aplicación JS",
+        "description": "Radiografía de una Aplicación JS",
         "speakers": [
-            42
+            10
         ],
-        "language": "English",
-        "complexity": "Intermediate",
+        "language": "",
+        "complexity": "",
         "tags": [
-            "General",
-            "Startups",
-            "Entrepreneurship"
+            "Web"
         ],
-        "presentation":"https://speakerdeck.com/gdglviv/peter-tuszynski-keynote-how-to-take-off-in-2016"
+        "presentation":""
     },
     "138": {
         "id": 138,
-        "title": "Closing ceremony",
-        "description": "Last words from the organizers and official conference closing.",
-        "image": "/images/backgrounds/closing.jpg"
+        "title": "Cierre de evento",
+        "description": "Cierre",
+        "image": "/images/backgrounds/home.png"
     },
     "137": {
         "id": 137,
-        "title": "Afterparty & Networking",
-        "description": "Afterparty is a great time to have some fun and meet new people",
+        "title": "Taller de Electrónica",
+        "description": "Taller de Electrónica",
         "image": "/images/backgrounds/party.jpg"
     },
     "136": {
@@ -127,22 +119,30 @@
         "language": "English",
         "image": "/images/backgrounds/opening.jpg"
     },
+    "336": {
+        "id": 336,
+        "title": "GDG DevFest Ukraine 2016 Opening",
+        "description": "Official start of the conference. Greetings from the organizers, sponsors and partners.",
+        "language": "English",
+        "image": "/images/backgrounds/opening.jpg"
+    },
+
     "135": {
         "id": 135,
-        "title": "Morning coffee",
-        "description": "Coffeeeeeee!",
-        "image": "/images/backgrounds/morning.jpg"
+        "title": "Registro de asistentes",
+        "description": "Registros",
+        "image": "/images/backgrounds/coffee-break.jpg"
     },
     "134": {
         "id": 134,
-        "title": "Coffee break",
-        "description": "Coffeeeeeee!",
-        "image": "/images/backgrounds/coffee-break.jpg"
+        "title": "KeyNote",
+        "description": "Keynote",
+        "image": "/images/backgrounds/opening.jpg"
     },
     "133": {
         "id": 133,
-        "title": "Lunch",
-        "description": "Foooooooood!",
+        "title": "Break",
+        "description": "Break",
         "image": "/images/backgrounds/lunch.jpg"
     },
     "132": {
@@ -153,44 +153,42 @@
     },
     "131": {
         "id": 131,
-        "title": "Deal with it: Android DataBinding explained",
-        "description": "In this talk, I will reveal you all the deepest secrets of using MVVM architecture in Android. \nWe will discuss on how to organise your application, views, models, how to retrieve data from the model requested from the view via data binding. \nLightweight Activities and Fragments, is it even possible? \n\nYes, and I will show you how to achieve this with MVVM and DataBinding!",
+        "title": "Angular Fire",
+        "description": "Angular Fire",
         "speakers": [
-            27
+            6
         ],
-        "language": "English",
-        "complexity": "Intermediate",
+        "language": "",
+        "complexity": "",
         "tags": [
-            "Android"
+            "AngularJS"
         ],
-        "presentation":"https://speakerdeck.com/gdglviv/roman-herasymenko-deal-with-it-android-databinding-explained"
+        "presentation":""
     },
     "1301": {
         "id": 1301,
-        "title": "Designing an Android Wear Application (part 1)",
-        "description": "Wearable devices are one of the most popular things nowadays. Specially, after the Apple Watch, we finally get the whole picture of the entire list of products and their features. Now, we can talk about how we can design a user experience for this type of devices.\nEvery platform has it's own design principles and approaches. But, in the core, they all need to follow same core rules. So, how we combine this core requirements with Google's Material Design and use them on an Android Wear device? Let's learn!",
+        "title": "Taller IOT - Firebase",
+        "description": "Taller IOT Firebase",
         "speakers": [
-            26
+            7,1
         ],
-        "language": "English",
-        "complexity": "Intermediate",
+        "language": "",
+        "complexity": "",
         "tags": [
-            "Android",
-            "Workshop"
+            "Firebase"
         ]
     },
     "1302": {
         "id": 1302,
-        "title": "Designing an Android Wear Application (part 2)",
-        "description": "Wearable devices are one of the most popular things nowadays. Specially, after the Apple Watch, we finally get the whole picture of the entire list of products and their features. Now, we can talk about how we can design a user experience for this type of devices.\nEvery platform has it's own design principles and approaches. But, in the core, they all need to follow same core rules. So, how we combine this core requirements with Google's Material Design and use them on an Android Wear device? Let's learn!",
+        "title": "Kubernetes: Orquestación, Despliegue y Escalamiento de Contenedores",
+        "description": "Kubernetes: Orquestación, Despliegue y Escalamiento de Contenedores",
         "speakers": [
-            26
+            12
         ],
-        "language": "English",
-        "complexity": "Intermediate",
+        "language": "",
+        "complexity": "",
         "tags": [
-            "Android",
-            "Workshop"
+            "Docker"
         ]
     },
     "129": {

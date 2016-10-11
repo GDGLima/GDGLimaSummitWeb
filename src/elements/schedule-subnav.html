@@ -90,17 +90,6 @@
         allow-outside-scroll
         opened="{{_filtersOpened}}"
       >
-        <paper-button class="dropdown-trigger">
-          [[localize('filter')]]
-          <iron-icon class="filter-icon" icon="filter-list"></iron-icon>
-        </paper-button>
-        <paper-menu
-          id="filters"
-          class="filters-content dropdown-content"
-          attr-for-selected="value"
-          selected-values="{{filters}}"
-          multi
-        >
           <template is="dom-repeat" items="[[schedule.tags]]" as="tag">
             <paper-checkbox
               value="[[tag]]"
@@ -117,12 +106,7 @@
 
     <div class="info-banner" layout horizontal justified>
       <div class="legend" layout horizontal>
-        <template is="dom-repeat" items="[[schedule.tags]]" as="tag">
-          <div class="legend-item">
-            <i class="point"
-               style$="background: [[_getCustomStyleValue(tag)]]"></i>[[tag]]
-          </div>
-        </template>
+        **** Sujeto a cambios 
       </div>
       <div class="filters" hidden$="[[!_filtersLabel]]">
         [[localize('filtered-by')]] [[_filtersLabel]]

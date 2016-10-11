@@ -22,6 +22,13 @@
         "tabBarColor": "#fff"
       }
     },
+    "schedule": {
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
     "cod": {
       "headerSettings": {
         "backgroundColor": "#673ab7",
@@ -38,6 +45,10 @@
     {
       "route": "speakers",
       "permalink": "/speakers/"
+    },
+    {
+      "route": "schedule",
+      "permalink": "/schedule/"
     }
   ],
   "url": "https://www.limadevfest.com",

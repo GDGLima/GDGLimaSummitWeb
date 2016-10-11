@@ -1,19 +1,81 @@
-[{
+[ {
     "date": "2016-10-22",
     "dateReadable": "22 Octubre",
     "tracks": [{
-        "title": "Auditorio"
+        "title": "Ambiente 01"
     }, {
-        "title": "Conferencia"
+        "title": "Ambiente 02"
     }, {
-        "title": "Taller"
+        "title": "Ambiente 03"
+    }, {
+        "title": "Ambiente 04"
     }],
     "timeslots": [{
         "startTime": "08:30",
-        "endTime": "09:30",
+        "endTime": "09:00",
         "sessions": [
-            [132]
+            [135]
+        ]
+    }, {
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "sessions": [
+            [134]
+        ]
+    }, {
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "sessions": [
+            [1442],
+            [145],
+            [140],
+            [1441]
+        ]
+    }, {
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "sessions": [
+            [143],
+            [142],
+            [140],
+            [141]
+        ]
+    }, {
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "sessions": [
+            [143],
+            [139],
+            [140],
+            [131]
+        ]
+    }, {
+        "startTime": "13:00",
+        "endTime": "13:50",
+        "sessions": [
+            [133]
+            
+        ]
+    }, {
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "sessions": [
+            [1301],
+            [140]
+        ]
+    }, {
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "sessions": [
+            [1301],
+            [1302]
+        ]
+    },
+     {
+        "startTime": "15:50",
+        "endTime": "16:00",
+        "sessions": [
+            [138]
         ]
     }]
-}
-]
+}]

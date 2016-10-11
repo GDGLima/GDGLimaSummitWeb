@@ -5,13 +5,19 @@
     "logos": [
       {
         "name": "Universidad de Lima",
-        "url": "http://www.corevalue.com.ua/",
+        "url": "http://www.ulima.edu.pe/",
         "logoUrl": "/images/logos/logo-universidad-de-lima.png"
       },
       {
         "name": "Belatrix",
-        "url": "http://www.globallogic.com/",
+        "url": "http://www.belatrixsf.com/",
         "logoUrl": "/images/logos/belatrix.png"
+      }
+      ,
+      {
+        "name": "Code Picnic",
+        "url": "https://codepicnic.com/",
+        "logoUrl": "/images/logos/codepicnic.png"
       }
     ]
   }    

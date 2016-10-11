@@ -1,4 +1,44 @@
 {
+    "1": {
+        "id": 1,
+        "featured": true,
+        "name": "Adrian Catalan",
+        "title": "Google Developer Expert Android , IOT ,Firebase. ",
+        "company": "GDE IOT - Android",
+        "companyLogo": "/images/logos/gde.png",
+        "country": "Guatemala",
+        "photoUrl": "/images/people/acatalan.jpg",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "IOT",
+            "Android",
+            "Firebase"
+
+            ],
+
+        "badges": [
+            {
+                "name": "GDE",
+                "description": "GDE Android Firebase IOT ",
+                "link": "https://developers.google.com/experts/people/adrian-catalan.html"
+            }
+        ],
+        "socials": [
+           
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/adrian.catalan"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/ykro"
+            }
+        ]
+    },
+
     "2": {
         "id": 2,
         "featured": true,
@@ -28,7 +68,7 @@
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "@Johnp_js"
+                "link": "https://twitter.com/Johnp_js"
             }
         ]
     },
@@ -95,7 +135,7 @@
         ]
     },
     "5": {
-        "id": 4,
+        "id": 5,
         "featured": true,
         "name": "Eddú Melendez",
         "title": "Developer",
@@ -125,8 +165,8 @@
             }
         ]
     },
-    "6": {
-        "id": 5,
+    "6":  {
+        "id": 6,
         "featured": true,
         "name": "Herald Gomez",
         "title": "Developer",
@@ -156,7 +196,7 @@
             }
         ]
     },
-    "7": {
+    "7":  {
         "id": 7,
         "featured": true,
         "name": "Elvis Rivera",
@@ -187,7 +227,6 @@
             }
         ]
     },
-
     "8": {
         "id": 8,
         "featured": true,
@@ -220,8 +259,7 @@
         ]
     },
 
-
-    "9":{
+    "9": {
         "id": 9,
         "featured": true,
         "name": "Héctor Paz",
@@ -233,7 +271,7 @@
         "shortBio": "",
         "bio": "",
         "tags": [
-            "Web"
+            "Docker"
         ],
         "badges": [
 
@@ -242,17 +280,16 @@
             {
                 "icon": "website",
                 "name": "WebSite",
-                "link": "http://www.gdglima.com"
+                "link": "https://codepicnic.com/"
             },
             {
                 "icon": "facebook",
                 "name": "Facebook",
-                "link": "http://www.gdglima.com"
+                "link": "https://www.facebook.com/hdanniel"
             }
         ]
     },
-    
-    "10":{
+    "10": {
         "id": 10,
         "featured": true,
         "name": "Erik Porroa",
@@ -273,17 +310,16 @@
             {
                 "icon": "website",
                 "name": "WebSite",
-                "link": "http://www.gdglima.com"
+                "link": "https://www.facebook.com/groups/frontendpe/"
             },
             {
                 "icon": "facebook",
                 "name": "Facebook",
-                "link": "http://www.gdglima.com"
+                "link": "https://www.facebook.com/eporroa"
             }
         ]
     },
-
-    "11":{
+    "11": {
         "id": 11,
         "featured": true,
         "name": "Gustavo León",
@@ -304,12 +340,42 @@
             {
                 "icon": "website",
                 "name": "WebSite",
-                "link": "http://www.gdglima.com"
+                "link": "https://www.facebook.com/groups/frontendpe/"
             },
             {
                 "icon": "facebook",
                 "name": "Facebook",
-                "link": "http://www.gdglima.com"
+                "link": "https://www.facebook.com/gustavo.leon.rojas?fref=ts"
+            }
+        ]
+    },
+    "12": {
+        "id": 12,
+        "featured": true,
+        "name": "Angel Nuñez",
+        "title": "Developer",
+        "company": "Docker Lima",
+        "companyLogo": "/images/logos/dockerlima.png",
+        "country": "Perú",
+        "photoUrl": "/images/people/anunez.jpg",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Docker"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "website",
+                "name": "WebSite",
+                "link": "http://www.meetup.com/es-ES/Docker-Lima/"
+            },
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/snahider"
             }
         ]
     }
