@@ -1,14 +1,10 @@
 [ {
     "date": "2016-10-22",
-    "dateReadable": "22 Octubre",
+    "dateReadable": "Mañana",
     "tracks": [{
-        "title": "Ambiente 01"
+        "title": "Auditorio S "
     }, {
-        "title": "Ambiente 02"
-    }, {
-        "title": "Ambiente 03"
-    }, {
-        "title": "Ambiente 04"
+        "title": "Aula Magna B"
     }],
     "timeslots": [{
         "startTime": "08:30",
@@ -20,34 +16,31 @@
         "startTime": "09:00",
         "endTime": "09:50",
         "sessions": [
-            [134]
+            [145],
+            [1442]
         ]
     }, {
         "startTime": "10:00",
         "endTime": "10:50",
         "sessions": [
-            [1442],
-            [145],
-            [140],
-            [1441]
+            [142],
+            [143]
+            
         ]
     }, {
         "startTime": "11:00",
         "endTime": "11:50",
         "sessions": [
-            [143],
-            [142],
-            [140],
-            [141]
+            [129],
+            [1301]
+         
         ]
     }, {
         "startTime": "12:00",
         "endTime": "12:50",
         "sessions": [
-            [143],
-            [139],
-            [140],
-            [131]
+            [127],
+            [1301]
         ]
     }, {
         "startTime": "13:00",
@@ -56,26 +49,47 @@
             [133]
             
         ]
+    }]
+},
+
+{
+    "date": "2016-10-22",
+    "dateReadable": "Tarde",
+    "tracks": [{
+        "title": "Aula R 102"
     }, {
-        "startTime": "14:00",
-        "endTime": "14:50",
+        "title": "Aula R 103"
+    }, {
+        "title": "Aula R 104"
+    }, {
+        "title": "Aula R 105"
+    }],
+    "timeslots": [{
+        "startTime": "14:30",
+        "endTime": "15:20",
         "sessions": [
-            [1301],
-            [140]
+            [139],
+            [128],
+            [141]
+
         ]
     }, {
-        "startTime": "15:00",
-        "endTime": "15:50",
+        "startTime": "15:30",
+        "endTime": "16:20",
         "sessions": [
-            [1301],
+            [1441],
+            [131],
             [1302]
         ]
     },
      {
-        "startTime": "15:50",
-        "endTime": "16:00",
+        "startTime": "16:30",
+        "endTime": "16:50",
         "sessions": [
             [138]
         ]
     }]
-}]
+}
+
+
+]

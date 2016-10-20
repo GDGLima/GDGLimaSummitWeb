@@ -265,7 +265,7 @@
         "name": "Héctor Paz",
         "title": "Developer",
         "company": "CodePicnic",
-        "companyLogo": "/images/logos/codepicnic.jpg",
+        "companyLogo": "/images/logos/codepicnic.png",
         "country": "Perú",
         "photoUrl": "/images/people/hectorpaz.jpg",
         "shortBio": "",
@@ -378,5 +378,67 @@
                 "link": "https://www.facebook.com/snahider"
             }
         ]
+    },
+    "13": {
+        "id": 13,
+        "featured": true,
+        "name": "José Manuel Rios Vega",
+        "title": "Developer",
+        "company": "",
+        "companyLogo": "",
+        "country": "Perú",
+        "photoUrl": "/images/people/jrios.jpg",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Beacons"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "website",
+                "name": "WebSite",
+                "link": ""
+            },
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/jmriosvega"
+            }
+        ]
+    },
+    "14": {
+        "id": 14,
+        "featured": true,
+        "name": "Sergio Infante",
+        "title": "Developer Belatrix",
+        "company": "Belatrix",
+        "companyLogo": "/images/logos/belatrix.png",
+        "country": "Perú",
+        "photoUrl": "/images/people/sinfante.jpg",
+        "shortBio": "Desarrollador de Software, Lider de Proyecto en Belatrix Software",
+        "bio": "",
+        "tags": [
+            "Arduino"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "website",
+                "name": "WebSite",
+                "link": "http://www.belatrixsf.com/"
+            },
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": ""
+            }
+        ]
     }
+
+
 }

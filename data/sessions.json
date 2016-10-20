@@ -84,7 +84,7 @@
         "id": 140,
         "title": "Por  definir",
         "description": "Por definir",
-        "language": "English"
+        "language": ""
     },
     "139": {
         "id": 139,
@@ -193,45 +193,45 @@
     },
     "129": {
         "id": 129,
-        "title": "Accessibility on Android",
-        "description": "Accessibility is a very important step to make sure that your app reaches everyone in an easy and fun way to use. \nGood accessibility support means much more than just making sure the app supports screen readers, different fonts sizes and good contrast ratios. It is a learning process, and one in which we ourselves still have much to learn and explore. ",
+        "title": "CodePicnic: Continuous Delivery con Docker y Jenkins",
+        "description": "CodePicnic: Continuous Delivery con Docker y Jenkins",
         "speakers": [
-            26
+            9
         ],
-        "language": "English",
-        "complexity": "Intermediate",
+        "language": "",
+        "complexity": "",
         "tags": [
-            "Android"
+            "Docker"
         ],
-        "presentation":"https://speakerdeck.com/gdglviv/resul-caner-yildirim-accessibility-on-android"
+        "presentation":""
     },
     "128": {
         "id": 128,
-        "title": "Android Wear 2.0: Great Changes Upcoming this Fall",
-        "description": "Google announced Android Wear 2.0 become available this Fall. This major update brings some revolutionary changes in platform, that should change our approaches in developing wearable apps, including freedom of BLE tethering, system support for complications and activity recognition by GoogleFit, developed mainly for Android Wear 2.0. We will talk deeper about these new features and look at some ways to implement them in the code.",
+        "title": "Creando experiencias a través de beacons",
+        "description": "",
         "speakers": [
-            25
+            13
         ],
-        "language": "English",
-        "complexity": "Beginner",
+        "language": "",
+        "complexity": "",
         "tags": [
-            "Android"
+            "Firebase"
         ],
-        "presentation":"https://speakerdeck.com/gdglviv/constantine-mars-android-wear-2-dot-0-great-changes-upcoming-this-fall"
+        "presentation":""
     },
     "127": {
         "id": 127,
-        "title": "ExoPlayer: Media playback without pain (almost...)",
-        "description": "If you have any experience with Android Media Player, you definitely know how hard it is to prepare it and do not lose your mind. ExoPlayer - is an alternative, which can help you deal with media with much less pain. So lets discuss if it really a \"silver bullet\" or yet another State Machine hell.",
+        "title": "Django Rest Framewok + Arduino",
+        "description": "",
         "speakers": [
-            24
+            14
         ],
-        "language": "Ukrainian",
-        "complexity": "Intermediate",
+        "language": "",
+        "complexity": "",
         "tags": [
-            "Android"
+            "Firebase"
         ],
-        "presentation":"https://speakerdeck.com/gdglviv/anton-minashkin-exoplayer-media-playback-without-pain-almost-dot-dot-dot"
+        "presentation":""
     },
     "126": {
         "id": 126,
