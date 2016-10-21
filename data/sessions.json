@@ -88,10 +88,10 @@
     },
     "139": {
         "id": 139,
-        "title": "Radiografía de una Aplicación JS",
-        "description": "Radiografía de una Aplicación JS",
+        "title": "Radiografía de una Aplicación JS & Comunicación con Docker containers usando websockets",
+        "description": "Radiografía de una Aplicación JS & Comunicación con Docker containers usando websockets",
         "speakers": [
-            10
+            10,11
         ],
         "language": "",
         "complexity": "",
@@ -222,14 +222,14 @@
     "127": {
         "id": 127,
         "title": "Django Rest Framewok + Arduino",
-        "description": "",
+        "description": "Una demostración de como se puede tener backends RESTful para poder usarlos con Arduino.",
         "speakers": [
             14
         ],
         "language": "",
         "complexity": "",
         "tags": [
-            "Firebase"
+            "Firebase", "Django"
         ],
         "presentation":""
     },
